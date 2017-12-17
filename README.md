@@ -4,6 +4,8 @@ Ejemplo de TDD con la kata FizzBuzz en .net
 Escribe un programa que imprima los número del 1 al 100, pero aplicando las siguientes normas: Devuelve Fizz si el número es = 3 o divisible por 3.
 Devuelve Buzz si el número es = 5 o divisible por 5. Devuelve FizzBuzz si el número es divisible por 3 y por 5.
 La salida de ejemplo sería como esta:
+
+```
 1
 2
 Fizz
@@ -23,3 +25,5 @@ Fizz
 FizzBuzz
 16
 17
+... etc hasta el 100
+```
